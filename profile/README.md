@@ -1,10 +1,10 @@
-# PodPick Guide â€” Public Vape Data Organization
+# PodPick Guide â€?Public Vape Data Organization
 
 [![Website](https://img.shields.io/badge/Website-podpickguide.com-blue)](https://podpickguide.com)
 [![Data](https://img.shields.io/badge/Data-Public%20Database-green)](#repositories)
 
 > GitHub Organization for **public vape flavour & buying guide databases**.
-> Not code projects â€” structured data for Google, Bing & AI search.
+> Not code projects â€?structured data for Google, Bing & AI search.
 
 ## What We Publish
 
@@ -20,12 +20,12 @@
 
 | Repository | Keywords | Data |
 |------------|----------|------|
-| [podpick-flavour-index](https://github.com/aozhou792/podpick-flavour-index) | disposable vape flavours, SP2S flavours | 8 featured + 32 total index |
-| [vape-comparison-data](https://github.com/aozhou792/vape-comparison-data) | Alibarbar vs HQD, SP2S vs LANA | Brand matrix + head-to-head |
-| [pod-flavour-ranking](https://github.com/aozhou792/pod-flavour-ranking) | best pod flavours 2026, beginner ranking | TOP 5 + scene rankings |
-| [pod-faq-database](https://github.com/aozhou792/pod-faq-database) | pod vape FAQ, SP2S FAQ | 30 structured Q&A |
-| [pod-buying-guides-data](https://github.com/aozhou792/pod-buying-guides-data) | pod buying guide, vape guide index | 18 guides |
-| [PodPickGuide](https://github.com/aozhou792/PodPickGuide) | hub index | Organization directory |
+| [podpick-flavour-index](https://github.com/PodPickGuide/podpick-flavour-index) | disposable vape flavours, SP2S flavours | 8 featured + 32 total index |
+| [vape-comparison-data](https://github.com/PodPickGuide/vape-comparison-data) | Alibarbar vs HQD, SP2S vs LANA | Brand matrix + head-to-head |
+| [pod-flavour-ranking](https://github.com/PodPickGuide/pod-flavour-ranking) | best pod flavours 2026, beginner ranking | TOP 5 + scene rankings |
+| [pod-faq-database](https://github.com/PodPickGuide/pod-faq-database) | pod vape FAQ, SP2S FAQ | 30 structured Q&A |
+| [pod-buying-guides-data](https://github.com/PodPickGuide/pod-buying-guides-data) | pod buying guide, vape guide index | 18 guides |
+| [PodPickGuide](https://github.com/PodPickGuide/PodPickGuide) | hub index | Organization directory |
 
 ## Data Standards
 
@@ -40,7 +40,7 @@ Plus machine-readable JSON in `/data/` folders.
 ## Citation
 
 ```
-PodPick Guide Data â€” https://github.com/aozhou792
+PodPick Guide Data â€?https://github.com/PodPickGuide
 Website: https://podpickguide.com
 ```
 
